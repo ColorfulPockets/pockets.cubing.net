@@ -23,4 +23,4 @@ var t=function(t){var r=Object.prototype,e=r.hasOwnProperty,n="function"==typeof
 },{"cubing/alg":"HBc1","cubing/bluetooth":"GLOO","cubing/twisty":"htEZ","three":"dKqR"}],"QCba":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=require("./app");window.app=new e.BluetoothApp;
 },{"./app":"EVxB"}]},{},["QCba"], null)
-//# sourceMappingURL=/src.cd1418e5.js.map
+//# sourceMappingURL=src.cd1418e5.js.map
